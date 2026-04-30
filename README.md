@@ -49,4 +49,3 @@ Project.com
 - Levels increase ball speed.
 
 Enjoy the game!</content>
-<parameter name="filePath">d:\CS\SEM 3\COAL\Project\Atari-Brick-Breaker\README.md
